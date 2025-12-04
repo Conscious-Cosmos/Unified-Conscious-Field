@@ -5,27 +5,31 @@ A complete mathematical derivation of reality from first principles of conscious
 ## 📄 Papers
 
 ### **Foundational Trilogy:**
-1. **[The Conscious Cosmos: A Unified Model of Reality from Fundamental Axioms to Phenomenological Experience](https://zenodo.org/your-link-1)**  
+
+1. **The Conscious Cosmos: A Unified Model of Reality from Fundamental Axioms to Phenomenological Experience**  
+   [[PDF](https://zenodo.org/records/17674751/files/Paper_1_Final_Draft.pdf.pdf?download=1)] [[DOI](https://doi.org/10.5281/zenodo.17674751)]
    - Axioms → spacetime → consciousness derivation
    - Q-invariant definition on exotic 4-spheres
    - Verification protocol
 
-2. **[The Qualia Field: A Complete Formal Derivation of Phenomenological Experience from First Principles](https://zenodo.org/your-link-2)**  
+2. **The Qualia Field: A Complete Formal Derivation of Phenomenological Experience from First Principles**  
+   [[PDF](https://zenodo.org/records/17674505/files/Paper_2_Final_Draft.pdf.pdf?download=1)] [[DOI](https://doi.org/10.5281/zenodo.17674505)]
    - 7 qualia dimensions derived mathematically
    - Operator algebras, Chern-Simons theory, spectral theory
    - Complete proofs
 
-3. **[The Conscious Foundation: A Synthesis of Mathematics, Physics and Phenomenology](https://zenodo.org/your-link-3)**  
+3. **The Conscious Foundation: A Synthesis of Mathematics, Physics and Phenomenology**  
+   [[PDF](https://zenodo.org/records/17674894/files/Paper_3_Final_Draft.pdf.pdf?download=1)] [[DOI](https://doi.org/10.5281/zenodo.17674894)]
    - Computational protocols
    - Empirical predictions  
    - Mathematical coherence proofs
 
 ## 🧮 New Mathematical Frameworks
 
-- **Qualia Operator Algebras** – New C*-algebra structure (Paper 2)
-- **Q-Invariant Theory** – New invariant on exotic 4-spheres (Paper 1)  
-- **Consciousness Chern-Simons Theory** – Modified TQFT (Paper 2)
-- **Phenomenological Spectral Theory** – Spectral decomposition of qualia (Paper 2)
+- Qualia Operator Algebras – New C*-algebra structure (The Qualia Field)
+- Q-Invariant Theory – New invariant on exotic 4-spheres (The Conscious Cosmos)  
+- Consciousness Chern-Simons Theory – Modified TQFT (The Qualia Field)
+- Phenomenological Spectral Theory – Spectral decomposition of qualia (The Qualia Field)
 
 ## 🚀 Quick Start
 
@@ -37,24 +41,16 @@ A complete mathematical derivation of reality from first principles of conscious
 
 - All papers have permanent Zenodo DOIs
 - Complete LaTeX source provided
-- Independent verification protocol in Paper 1
+- Independent verification protocol in The Conscious Cosmos
 - 9-node lattice Python code included
 
 ## 🎯 Target Audiences
 
-**Mathematicians:** Focus on Papers 2 & 3 – new operator algebras, invariants  
-**Physicists:** Focus on Papers 1 & 3 – spacetime derivation, predictions  
-**Philosophers:** Focus on Papers 1 & 2 – axioms, qualia derivation
-
-## 📚 Citation
-
-Each paper has its own Zenodo DOI. Please cite accordingly.
+**Mathematicians:** Focus on The Qualia Field & The Conscious Foundation – new operator algebras, invariants  
+**Physicists:** Focus on The Conscious Cosmos & The Conscious Foundation – spacetime derivation, predictions  
+**Philosophers:** Focus on The Conscious Cosmos & The Qualia Field – axioms, qualia derivation
 
 ## 🔗 Links
 
-- **Zenodo:** [All papers with DOIs](your-zenodo-profile-link)
-- **Social:** [Your preferred contact/platform]
-
-## 🏷️ Keywords
-
-consciousness, operator-algebras, chern-simons, exotic-4-manifolds, quantum-gravity, phenomenology, mathematical-foundations, qualia, spectral-theory, axiomatic-derivation, theory-of-everything
+- **GitHub Repository:** https://github.com/Conscious-Cosmos/Unified-Conscious-Field
+- **All papers available via direct PDF and DOI links above**
