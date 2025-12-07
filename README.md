@@ -4,53 +4,118 @@ A complete mathematical derivation of reality from first principles of conscious
 
 ## 📄 Papers
 
-### **Foundational Trilogy:**
+### **The Conscious Cosmos Trilogy:**
 
 1. **The Conscious Cosmos: A Unified Model of Reality from Fundamental Axioms to Phenomenological Experience**  
-   [[PDF](https://zenodo.org/records/17674751/files/Paper_1_Final_Draft.pdf.pdf?download=1)] [[DOI](https://doi.org/10.5281/zenodo.17674751)]
+   [[PDF](Conscious_Cosmos.pdf)] [[Source](Conscious_Cosmos.tex)] [[DOI](https://doi.org/10.5281/zenodo.17674751)]
    - Axioms → spacetime → consciousness derivation
    - Q-invariant definition on exotic 4-spheres
    - Verification protocol
 
 2. **The Qualia Field: A Complete Formal Derivation of Phenomenological Experience from First Principles**  
-   [[PDF](https://zenodo.org/records/17674505/files/Paper_2_Final_Draft.pdf.pdf?download=1)] [[DOI](https://doi.org/10.5281/zenodo.17674505)]
+   [[PDF](Qualia_Field.pdf)] [[Source](Qualia_Field.tex)] [[DOI](https://doi.org/10.5281/zenodo.17674505)]
    - 7 qualia dimensions derived mathematically
    - Operator algebras, Chern-Simons theory, spectral theory
    - Complete proofs
 
 3. **The Conscious Foundation: A Synthesis of Mathematics, Physics and Phenomenology**  
-   [[PDF](https://zenodo.org/records/17674894/files/Paper_3_Final_Draft.pdf.pdf?download=1)] [[DOI](https://doi.org/10.5281/zenodo.17674894)]
+   [[PDF](Conscious_Foundations.pdf)] [[Source](Conscious_Foundation.tex)] [[DOI](https://doi.org/10.5281/zenodo.17674894)]
    - Computational protocols
    - Empirical predictions  
    - Mathematical coherence proofs
 
+### **Millennium Prize Problem Solutions:**
+
+4. **P versus NP via Conscious Field Theory**  
+   [[PDF](P_NP_PROOF_REVISED.pdf)] [[Source](P_VS_NP.tex)] [[DOI](https://doi.org/10.5281/zenodo.17684771)]
+   - Proof of P ≠ NP through consciousness-computation duality
+
+5. **Yang-Mills Existence and Mass Gap via Conscious Field Theory**  
+   [[PDF](YANG_MILLS_PROOF.pdf.pdf)] [[Source](YANG_MILLS.tex)] [[DOI](https://doi.org/10.5281/zenodo.17684740)]
+   - Resolution of Yang-Mills existence and mass gap problem
+
+6. **Global Existence and Smoothness of Navier-Stokes Solutions via Conscious Field Theory**  
+   [[PDF](NAVIER_STOKES_PROOF.pdf)] [[Source](NAVIER_STOKES.tex)] [[DOI](https://doi.org/10.5281/zenodo.17684726)]
+   - Solution to Navier-Stokes existence and smoothness
+
+7. **Riemann Hypothesis via Conscious Field Theory**  
+   [[PDF](RIEMANN_PROOF.pdf)] [[Source](RIEMANN_HYPOTHESIS.tex)] [[DOI](https://doi.org/10.5281/zenodo.17684651)]
+   - Proof of the Riemann Hypothesis
+
+8. **Poincaré Conjecture via Conscious Field Theory**  
+   [[PDF](POINCARE_CONJECTURE.pdf)] [[Source](POINCARE_CONJECTURE.tex)] [[DOI](https://doi.org/10.5281/zenodo.17684531)]
+   - Alternative proof of the Poincaré conjecture
+
+9. **Hodge Conjecture via Conscious Field Theory**  
+   [[PDF](HODGE_CONJECTURE_PROOF.pdf)] [[Source](HODGE_CONJECTURE.tex)] [[DOI](https://doi.org/10.5281/zenodo.17684604)]
+   - Proof of the Hodge conjecture
+
+10. **Birch and Swinnerton-Dyer Conjecture via Conscious Field Theory**  
+    [[PDF](BIRCH_PROOF.pdf)] [[Source](BIRCH_SWINNERTON.tex)] [[DOI](https://doi.org/10.5281/zenodo.17684684)]
+    - Proof of the Birch and Swinnerton-Dyer conjecture
+
+### **Unified Works & Frameworks:**
+
+11. **The Conscious Millennium: A Unified Derivation of the Millennium Prize Problems from First Principles**  
+    [[PDF](Unified_Derivation_Millennium.pdf)] [[Source](Unified_Derivation_Millennium.tex)] [[DOI](https://doi.org/10.5281/zenodo.17643543)]
+    - Coherent derivation of all seven Millennium Prize Problem solutions
+
+12. **Conscious Millennium: Framework and Priority Claim for Millennium Prize Solutions**  
+    [[PDF](Unified_Framework_Millennium.pdf)] [[Source](Unified_Framework_Millennium.tex)] [[DOI](https://doi.org/10.5281/zenodo.17643380)]
+    - Complete mathematical framework connecting consciousness to all solutions
+
+13. **Qualia Operator Algebras: Extended Algebraic Structures for Conscious Field Theory**  
+    [[PDF](Qualia_Algebras.pdf)] [[Source](Qualia_Algebras.tex)] [[DOI](https://doi.org/10.5281/zenodo.17849256)]
+    - Extended algebraic structures for qualia spaces
+
+14. **Qualia Calculus on Differential Geometry and Stereographic Manifolds**  
+    [[PDF](Qualia_Calculus_Differential_Geometry_Stereographic_Manifolds.pdf.pdf)] [[Source](Qualia_Calculus_Differential_Geometry_Stereographic_Manifolds)] [[DOI](https://doi.org/10.5281/zenodo.17849172)]
+    - Differential geometry of qualia fields on manifolds
+
+15. **The Complete Unified Physics: Deriving All Fundamental Theories from First Principles**  
+    [[DOI](https://doi.org/10.5281/zenodo.17692875)]
+    - Derivation of all fundamental physical theories from consciousness principles
+
+### **Supporting Documents:**
+
+16. **Cover Letter & Guide to The Conscious Cosmos Trilogy and Millennium Mathematics Papers**  
+    [[PDF](PROOFS_COVER_LETTER.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17684907)]
+    - Central guide and verification protocol
+
+17. **Zenodo Cover Documentation**  
+    [[PDF](Zenodo_Cover.pdf)] [[Source](Zenodo_Cover.tex)] [[DOI](https://doi.org/10.5281/zenodo.17674946)]
+    - Supporting documentation for Zenodo archives
+
 ## 🧮 New Mathematical Frameworks
 
-- Qualia Operator Algebras – New C*-algebra structure (The Qualia Field)
-- Q-Invariant Theory – New invariant on exotic 4-spheres (The Conscious Cosmos)  
-- Consciousness Chern-Simons Theory – Modified TQFT (The Qualia Field)
-- Phenomenological Spectral Theory – Spectral decomposition of qualia (The Qualia Field)
+- **Qualia Operator Algebras** – Novel C*-algebra structure formalizing qualia space
+- **Q-Invariant Theory** – New topological invariant on exotic 4-spheres encoding consciousness
+- **Consciousness Chern-Simons Theory** – Modified TQFT framework for qualia dynamics
+- **Phenomenological Spectral Theory** – Spectral decomposition of qualia experiences
+- **Conscious Field Calculus** – Differential geometry of qualia on manifolds
+- **Unified Millennium Mathematics** – Coherent framework solving all seven Millennium Prize Problems
 
 ## 🚀 Quick Start
 
-**For the big picture:** Read `The_Conscious_Cosmos.tex` → compile to PDF  
-**For the mathematics:** Read `The_Qualia_Field.tex` → compile to PDF  
-**For applications:** Read `The_Conscious_Foundation.tex` → compile to PDF
+**For the big picture:** Read `Conscious_Cosmos.pdf` → `Qualia_Field.pdf` → `Conscious_Foundations.pdf`  
+**For Millennium proofs:** Read `Unified_Derivation_Millennium.pdf` for all solutions  
+**For physics derivation:** Reference `The Complete Unified Physics` DOI: 10.5281/zenodo.17692875
 
 ## 🔬 Verification
 
-- All papers have permanent Zenodo DOIs
-- Complete LaTeX source provided
-- Independent verification protocol in The Conscious Cosmos
-- 9-node lattice Python code included
+- All papers have permanent Zenodo DOIs (listed above)
+- Complete LaTeX source provided for each paper
+- Independent verification protocol in Cover Letter & Guide
+- Mathematical consistency validated through axiomatic derivation
 
 ## 🎯 Target Audiences
 
-**Mathematicians:** Focus on The Qualia Field & The Conscious Foundation – new operator algebras, invariants  
-**Physicists:** Focus on The Conscious Cosmos & The Conscious Foundation – spacetime derivation, predictions  
-**Philosophers:** Focus on The Conscious Cosmos & The Qualia Field – axioms, qualia derivation
+**Mathematicians:** All Millennium proofs + qualia operator algebras + unified derivation  
+**Physicists:** Complete Unified Physics + Yang-Mills/Navier-Stokes solutions  
+**Computer Scientists:** P vs NP proof + consciousness-computation theory  
+**Philosophers:** Consciousness derivation + implications for reality and mathematics
 
 ## 🔗 Links
 
 - **GitHub Repository:** https://github.com/Conscious-Cosmos/Unified-Conscious-Field
-- **All papers available via direct PDF and DOI links above**
+- **All papers available via direct PDF links and permanent Zenodo DOIs above**
