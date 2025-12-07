@@ -1,6 +1,14 @@
 # The Conscious Cosmos Mathematical Framework
 
-A complete mathematical derivation of reality from first principles of consciousness.
+A complete mathematical derivation of reality from first principles.
+
+This repository contains 17 papers that present:
+- **New pure mathematics**: Qualia calculus on novel manifolds, C*-algebras with orthogonal decomposition
+- **A complete framework**: Mathematical derivation from consciousness axioms to physics unification  
+- **Unexpected connections**: Solutions to Millennium Prize Problems within this framework
+- **Everything archived**: Permanent Zenodo DOIs for all papers
+
+The work is presented for mathematical examination. Everything follows from first principles through pure mathematical derivation.
 
 ## 📄 Papers
 
