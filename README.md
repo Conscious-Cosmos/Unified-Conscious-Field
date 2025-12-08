@@ -86,11 +86,11 @@ The work is presented for mathematical examination. Everything follows from firs
 
 ### **Supporting Documents:**
 
-16. **Cover Letter & Guide to The Conscious Cosmos Trilogy and Millennium Mathematics Papers**  
+16. **Cover Letter & Guide to the Millennium Mathematics Proofs**  
     [[PDF](PROOFS_COVER_LETTER.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17684907)]
     - Central guide and verification protocol
 
-17. **Zenodo Cover Documentation**  
+17. **Cover Letter & Guide to The Conscious Cosmos Trilogy and Millennium Mathematics: Foundations & Derivations**  
     [[PDF](Zenodo_Cover.pdf)] [[Source](Zenodo_Cover.tex)] [[DOI](https://doi.org/10.5281/zenodo.17674946)]
     - Supporting documentation for Zenodo archives
 
