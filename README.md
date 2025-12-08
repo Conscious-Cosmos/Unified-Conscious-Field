@@ -70,7 +70,7 @@ The work is presented for mathematical examination. Everything follows from firs
     - Coherent derivation of all seven Millennium Prize Problem solutions
 
 12. **Conscious Millennium: Framework and Priority Claim for Millennium Prize Solutions**  
-    [[PDF](Unified_Framework_Millennium.pdf)] [[Source](Unified_Framework_Millennium.tex)] [[DOI](https://doi.org/10.5281/zenodo.17643380)]
+    [[PDF](Unified_Framework_Millennium.pdf)] [[Source](Unified_Framework_Millennium.tex)] [[DOI](https://doi.org/10.5281/zenodo.17643379)]
     - Complete mathematical framework connecting consciousness to all solutions
 
 13. **Qualia Algebras: C*-Algebras with Seven-Fold Orthogonal Decomposition**  
