@@ -65,7 +65,7 @@ The work is presented for mathematical examination. Everything follows from firs
 ### **Unified Works & Frameworks:**
 
 11. **The Conscious Millennium: A Unified Derivation of the Millennium Prize Problems from First Principles (v2)**  
-    [[PDF](Conscious_Millennium_Derivations.pdf)] [[Source](Conscious_Millennium_Derivations.tex)] [[DOI](https://doi.org/10.5281/zenodo.17643543)]  
+    [[PDF](Conscious_Millennium_Derivations.pdf)] [[Source](Conscious_Millennium_Derivations.tex)] [[DOI](https://doi.org/10.5281/zenodo.17643542)]  
     *v2 contains corrected P vs NP proof (P ≠ NP)*
     - Coherent derivation of all seven Millennium Prize Problem solutions
 
