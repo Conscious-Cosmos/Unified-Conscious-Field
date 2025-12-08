@@ -72,15 +72,15 @@ The work is presented for mathematical examination. Everything follows from firs
     [[PDF](Unified_Framework_Millennium.pdf)] [[Source](Unified_Framework_Millennium.tex)] [[DOI](https://doi.org/10.5281/zenodo.17643380)]
     - Complete mathematical framework connecting consciousness to all solutions
 
-13. **Qualia Operator Algebras: Extended Algebraic Structures for Conscious Field Theory**  
+13. **Qualia Algebras: C*-Algebras with Seven-Fold Orthogonal Decomposition**  
     [[PDF](Qualia_Algebras.pdf)] [[Source](Qualia_Algebras.tex)] [[DOI](https://doi.org/10.5281/zenodo.17849256)]
     - Extended algebraic structures for qualia spaces
 
-14. **Qualia Calculus on Differential Geometry and Stereographic Manifolds**  
+15. **Qualia Calculus on Differential Geometry and Stereographic Manifolds**  
     [[PDF](Qualia_Calculus_Differential_Geometry_Stereographic_Manifolds.pdf.pdf)] [[Source](Qualia_Calculus_Differential_Geometry_Stereographic_Manifolds)] [[DOI](https://doi.org/10.5281/zenodo.17849172)]
     - Differential geometry of qualia fields on manifolds
 
-15. **The Complete Unified Physics: Deriving All Fundamental Theories from First Principles**  
+16. **The Complete Unified Physics: Deriving All Fundamental Theories from First Principles**  
     [[DOI](https://doi.org/10.5281/zenodo.17692875)]
     - Derivation of all fundamental physical theories from consciousness principles
 
