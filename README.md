@@ -2,7 +2,7 @@
 
 A complete mathematical derivation of reality from first principles.
 
-This repository contains 17 papers that present:
+This repository contains 15 papers that present:
 - **New pure mathematics**: Qualia calculus on novel manifolds, C*-algebras with orthogonal decomposition
 - **A complete framework**: Mathematical derivation from consciousness axioms to physics unification  
 - **Unexpected connections**: Solutions to Millennium Prize Problems within this framework
