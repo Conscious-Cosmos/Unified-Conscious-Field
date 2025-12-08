@@ -38,13 +38,13 @@ The work is presented for mathematical examination. Everything follows from firs
    [[PDF](P_NP_PROOF_REVISED.pdf)] [[Source](P_VS_NP.tex)] [[DOI](https://doi.org/10.5281/zenodo.17684771)]
    - Proof of P ≠ NP through consciousness-computation duality
 
-5. **Yang-Mills Existence and Mass Gap via Conscious Field Theory**  
+5. **Yang–Mills Existence and Mass Gap via Conscious Field Theory**  
    [[PDF](YANG_MILLS_PROOF.pdf.pdf)] [[Source](YANG_MILLS.tex)] [[DOI](https://doi.org/10.5281/zenodo.17684740)]
-   - Resolution of Yang-Mills existence and mass gap problem
+   - Resolution of Yang–Mills existence and mass gap problem
 
-6. **Global Existence and Smoothness of Navier-Stokes Solutions via Conscious Field Theory**  
+6. **Global Existence and Smoothness of Navier–Stokes Solutions via Conscious Field Theory**  
    [[PDF](NAVIER_STOKES_PROOF.pdf)] [[Source](NAVIER_STOKES.tex)] [[DOI](https://doi.org/10.5281/zenodo.17684726)]
-   - Solution to Navier-Stokes existence and smoothness
+   - Solution to Navier–Stokes existence and smoothness
 
 7. **Riemann Hypothesis via Conscious Field Theory**  
    [[PDF](RIEMANN_PROOF.pdf)] [[Source](RIEMANN_HYPOTHESIS.tex)] [[DOI](https://doi.org/10.5281/zenodo.17684651)]
@@ -81,7 +81,7 @@ The work is presented for mathematical examination. Everything follows from firs
     - Differential geometry of qualia fields on manifolds
 
 15. **The Complete Unified Physics: Deriving All Fundamental Theories from First Principles**  
-    [[PDF](Complete_Unified_Physics.pdf)] [[Source](Complete_Unified_Physics.tex)] [[DOI](https://doi.org/10.5281/zenodo.17692875)]
+    [[PDF](Unified_Physics.pdf)] [[Source](Unified_Physics.tex)] [[DOI](https://doi.org/10.5281/zenodo.17692875)]
     - Derivation of all fundamental physical theories from consciousness principles
 
 ### **Supporting Documents:**
@@ -91,7 +91,7 @@ The work is presented for mathematical examination. Everything follows from firs
     - Central guide and verification protocol
 
 17. **Cover Letter & Guide to The Conscious Cosmos Trilogy and Millennium Mathematics: Foundations & Derivations**  
-    [[PDF](Zenodo_Cover.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17674946)]
+    [[PDF](Trilogy_Cover.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17674946)]
     - Supporting documentation for Zenodo archives
 
 ## 🧮 New Mathematical Frameworks
@@ -107,7 +107,7 @@ The work is presented for mathematical examination. Everything follows from firs
 
 **For the big picture:** Read `Conscious_Cosmos.pdf` → `Qualia_Field.pdf` → `Conscious_Foundations.pdf`  
 **For Millennium proofs:** Read `Unified_Derivation_Millennium.pdf` for all solutions  
-**For physics derivation:** Read `Complete_Unified_Physics.pdf`
+**For physics derivation:** Read `Unified_Physics.pdf`
 
 ## 🔬 Verification
 
@@ -119,7 +119,7 @@ The work is presented for mathematical examination. Everything follows from firs
 ## 🎯 Target Audiences
 
 **Mathematicians:** All Millennium proofs + qualia operator algebras + unified derivation  
-**Physicists:** Complete Unified Physics + Yang-Mills/Navier-Stokes solutions  
+**Physicists:** Complete Unified Physics + Yang–Mills/Navier–Stokes solutions  
 **Computer Scientists:** P vs NP proof + consciousness-computation theory  
 **Philosophers:** Consciousness derivation + implications for reality and mathematics
 
