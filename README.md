@@ -77,11 +77,11 @@ The work is presented for mathematical examination. Everything follows from firs
     - Extended algebraic structures for qualia spaces
 
 14. **Qualia Calculus on Differential Geometry and Stereographic Manifolds**  
-    [[PDF](Qualia_Calculus_Differential_Geometry_Stereographic_Manifolds.pdf.pdf)] [[Source](Qualia_Calculus_Differential_Geometry_Stereographic_Manifolds)] [[DOI](https://doi.org/10.5281/zenodo.17849172)]
+    [[PDF](Qualia_Calculus_Differential_Geometry_Stereographic_Manifolds.pdf.pdf)] [[Source](Qualia_Calculus_Differential_Geometry_Stereographic_Manifolds.tex)] [[DOI](https://doi.org/10.5281/zenodo.17849172)]
     - Differential geometry of qualia fields on manifolds
 
 15. **The Complete Unified Physics: Deriving All Fundamental Theories from First Principles**  
-    [[DOI](https://doi.org/10.5281/zenodo.17692875)]
+    [[PDF](Complete_Unified_Physics.pdf)] [[Source](Complete_Unified_Physics.tex)] [[DOI](https://doi.org/10.5281/zenodo.17692875)]
     - Derivation of all fundamental physical theories from consciousness principles
 
 ### **Supporting Documents:**
@@ -91,7 +91,7 @@ The work is presented for mathematical examination. Everything follows from firs
     - Central guide and verification protocol
 
 17. **Cover Letter & Guide to The Conscious Cosmos Trilogy and Millennium Mathematics: Foundations & Derivations**  
-    [[PDF](Zenodo_Cover.pdf)] [[Source](Zenodo_Cover.tex)] [[DOI](https://doi.org/10.5281/zenodo.17674946)]
+    [[PDF](Zenodo_Cover.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17674946)]
     - Supporting documentation for Zenodo archives
 
 ## 🧮 New Mathematical Frameworks
@@ -107,7 +107,7 @@ The work is presented for mathematical examination. Everything follows from firs
 
 **For the big picture:** Read `Conscious_Cosmos.pdf` → `Qualia_Field.pdf` → `Conscious_Foundations.pdf`  
 **For Millennium proofs:** Read `Unified_Derivation_Millennium.pdf` for all solutions  
-**For physics derivation:** Reference `The Complete Unified Physics` DOI: 10.5281/zenodo.17692875
+**For physics derivation:** Read `Complete_Unified_Physics.pdf`
 
 ## 🔬 Verification
 
