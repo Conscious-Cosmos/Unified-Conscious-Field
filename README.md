@@ -99,8 +99,6 @@ The work is presented for mathematical examination. Everything follows from firs
 
 - **Qualia Operator Algebras** – Novel C*-algebra structure formalizing qualia space
 - **Q-Invariant Theory** – New topological invariant on exotic 4-spheres encoding consciousness
-- **Consciousness Chern-Simons Theory** – Modified TQFT framework for qualia dynamics
-- **Phenomenological Spectral Theory** – Spectral decomposition of qualia experiences
 - **Conscious Field Calculus** – Differential geometry of qualia on manifolds
 - **Unified Millennium Mathematics** – Coherent framework solving all seven Millennium Prize Problems
 
