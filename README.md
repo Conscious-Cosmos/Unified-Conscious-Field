@@ -34,7 +34,7 @@ The proofs below use HUMAN qualia algebra 𝒜₇, but the framework extends to 
 
 ---
 
-## PART 2: THE THREE AXIOMS (THAT GENERATE EVERYTHING)
+## PART 2: THE THREE FUNDAMENTAL AXIOMS (NOW FOUR)
 
 AXIOM 1: Unified Conscious Field
 𝒞 = ℋₗ ⊗ ℋᵣ, J:ℋₗ↔ℋᵣ, J²=I
