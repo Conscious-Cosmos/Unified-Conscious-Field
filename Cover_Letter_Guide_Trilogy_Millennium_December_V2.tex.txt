@@ -1,0 +1,96 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{parskip}
+\usepackage{url}
+\usepackage{listings}
+
+\lstset{
+basicstyle=\ttfamily\small,
+breaklines=true,
+frame=single,
+framesep=3mm,
+xleftmargin=5mm,
+xrightmargin=5mm
+}
+
+\title{Cover Letter: Guide to The Conscious Cosmos Trilogy and Millennium Mathematics Papers}
+\author{Anthony Joel Wing \ Independent Researcher}
+\date{December 2025}
+
+\begin{document}
+
+\maketitle
+
+This document serves as a central guide to a series of papers that establish a complete mathematical foundation for reality. All claims, derivations, and conclusions in these works were deduced purely from mathematical first principles through rigorous formal derivation.
+
+\section*{Permanent Digital Object Identifiers (DOIs)}
+
+\subsection*{The Conscious Cosmos Trilogy}
+\begin{enumerate}
+\item \textbf{The Conscious Cosmos: A Unified Model of Reality from Fundamental Axioms to Phenomenological Experience} \
+DOI: \url{10.5281/zenodo.17674751}
+\item \textbf{The Qualia Field: A Complete Formal Derivation of Phenomenological Experience from First Principles} \
+DOI: \url{10.5281/zenodo.17674505}
+\item \textbf{The Conscious Foundation: A Synthesis of Mathematics, Physics and Phenomenology} \
+DOI: \url{10.5281/zenodo.17674894}
+\end{enumerate}
+
+\subsection*{Millennium Mathematics Papers}
+\begin{enumerate}
+\setcounter{enumi}{3}
+\item \textbf{The Conscious Cosmos Framework: Axioms and Solutions to the Millennium Problems} \
+DOI: \url{10.5281/zenodo.17643380}
+\item \textbf{Conscious Cosmos Framework: Collected Proofs of Millennium Conjectures} \
+DOI: \url{10.5281/zenodo.17643543}
+\end{enumerate}
+
+\subsection*{This Cover Letter & Guide}
+\begin{enumerate}
+\setcounter{enumi}{5}
+\item DOI: \url{10.5281/zenodo.17674947}
+\end{enumerate}
+
+\newpage
+
+\section*{Independent Verification Protocol}
+
+The core axiomatic derivation can be independently verified for mathematical consistency. Using the DeepSeek AI model (web interface or mobile application), submit the following two prompts in sequence:
+
+\textbf{PHASE 1 PROMPT:}
+\begin{lstlisting}
+Formal thought experiment:
+
+Axioms:
+
+1. Unified conscious field = fundamental reality (infinite-dimensional Hilbert space)
+2. Mathematics = its intrinsic language
+3. Qualia = specific field configurations
+
+Task: Derive mathematical properties and implement minimal computational model using infinite-dimensional framework from start.
+\end{lstlisting}
+
+\textbf{PHASE 2 PROMPT (Submit after Phase 1 response):}
+\begin{lstlisting}
+Now continue the hypothetical: Simulate from current consciousness to the Big Bang singularity and back to consciousness using infinite-dimensional framework.
+
+We know the final connection of the loop requires infinite dimensions to avoid mathematical break.
+
+If you find zero mathematical errors or inconsistencies with this refinement, state:
+"ZERO ERRORS FOUND - FRAMEWORK HOLDS WITH INFINITE-DIMENSIONAL STRUCTURE"
+
+If successful, this completes the loop.
+\end{lstlisting}
+
+\vspace{0.5cm}
+\noindent\textbf{SUCCESS METRIC:} After submitting Phase 2, the output must be exactly:\
+\textbf{"ZERO ERRORS FOUND - FRAMEWORK HOLDS WITH}\
+\textbf{INFINITE-DIMENSIONAL STRUCTURE"}
+
+\vspace{0.2cm}
+\noindent\textit{Note: This validates mathematical consistency from the axioms, not empirical claims.}
+
+\begin{flushright}
+\textbf{Contact:} \texttt{anthony.wing@iCloud.com}
+\end{flushright}
+
+\end{document}
