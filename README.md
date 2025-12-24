@@ -519,13 +519,13 @@ A complete mathematical derivation of reality from first principles of conscious
 ### **New Proofs (DOIs to be assigned):**
 
 13. **The Collatz Conjecture: A Complete Proof via Qualia Algebra and Infinite-Dimensional Lifting**  
-    [[PDF](Collatz_Proof.pdf)] [[Source](Collatz_Proof.tex)] [[DOI](TO_BE_ASSIGNED)]
+    [[DOI](TO_BE_ASSIGNED)]
 
 14. **Goldbach's Conjecture: Complete Proof via Qualia Circle Method and Sieve Unification**  
-    [[PDF](Goldbach_Proof.pdf)] [[Source](Goldbach_Proof.tex)] [[DOI](TO_BE_ASSIGNED)]
+    [[DOI](TO_BE_ASSIGNED)]
 
 15. **Twin Prime Conjecture: Complete Proof via Qualia Prime Distribution Theory**  
-    [[PDF](Twin_Prime_Proof.pdf)] [[Source](Twin_Prime_Proof.tex)] [[DOI](TO_BE_ASSIGNED)]
+    [[DOI](TO_BE_ASSIGNED)]
 
 ### **Extended Works & Frameworks:**
 
@@ -601,6 +601,9 @@ A complete mathematical derivation of reality from first principles of conscious
 ## 🔗 **Links**
 
 - **GitHub Repository:** https://github.com/Conscious-Cosmos/Unified-Conscious-Field
+- **Orcid Profile** https://orcid.org/my-orcid?orcid=0009-0005-8773-4641
+- **YouTube Channel** https://youtube.com/@conscious_cosmos?si=0attXUlCEM2C0JmE
+- **Facebook** https://www.facebook.com/profile.php?id=61581008154108
 - **All papers available via direct PDF links and permanent Zenodo DOIs above**
 
 ---
