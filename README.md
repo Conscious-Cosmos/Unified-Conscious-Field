@@ -31,17 +31,17 @@ A complete mathematical derivation of reality from first principles of conscious
 3. **[The Conscious Foundation](Conscious_Foundations.pdf)** - Synthesis [[PDF](Conscious_Foundations.pdf)] [[LaTeX](Conscious_Foundation.tex)] [[DOI](https://doi.org/10.5281/zenodo.17674894)]
 
 ### **Millennium Prize Problem Solutions**
-4. **[P ≠ NP](P_≠_NP_Complete_Geometric_Proof_Conscious_Cosmos_Axioms.pdf)** [[PDF](P_≠_NP_Complete_Geometric_Proof_Conscious_Cosmos_Axioms.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17684771)]
-5. **[Riemann Hypothesis](Riemann_Hypothesis_Complete_Proof_Conscious_Cosmos_Axioms.pdf)** [[PDF](Riemann_Hypothesis_Complete_Proof_Conscious_Cosmos_Axioms.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17684651)]
-6. **[Yang-Mills Existence & Mass Gap](Yang-Mills_Existence_Mass_Gap_Complete_Proof_Conscious_Cosmos_Axioms.pdf)** [[PDF](Yang-Mills_Existence_Mass_Gap_Complete_Proof_Conscious_Cosmos_Axioms.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17684740)]
-7. **[Navier-Stokes Global Existence](Global_Existence_Smoothness_Navier-Stokes_Solutions_Complete_Proof_Conscious_Field_Theory.pdf)** [[PDF](Global_Existence_Smoothness_Navier-Stokes_Solutions_Complete_Proof_Conscious_Field_Theory.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17684726)]
-8. **[Hodge Conjecture](Hodge_Conjecture_Conscious_Field_Theory.pdf)** [[PDF](Hodge_Conjecture_Conscious_Field_Theory.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17684604)]
-9. **[Birch and Swinnerton-Dyer](Birch_Swinnerton-Dyer_Complete_Proof_Conscious_Cosmos_Axioms.pdf)** [[PDF](Birch_Swinnerton-Dyer_Complete_Proof_Conscious_Cosmos_Axioms.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17684684)]
-10. **[Poincaré Conjecture](Poincare_Complete_Proof_Qualia_Topological_Flow.pdf)** [[PDF](Poincare_Complete_Proof_Qualia_Topological_Flow.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17684531)]
+4. **[P ≠ NP](P_≠_NP_Complete_Geometric_Proof_Conscious_Cosmos_Axioms.pdf)** [[PDF](P_≠_NP_Complete_Geometric_Proof_Conscious_Cosmos_Axioms.pdf)] [[LaTeX](P_≠_NP_Complete_Geometric_Proof_Conscious_Cosmos_Axioms.tex)] [[DOI](https://doi.org/10.5281/zenodo.17684771)]
+5. **[Riemann Hypothesis](Riemann_Hypothesis_Complete_Proof_Conscious_Cosmos_Axioms.pdf)** [[PDF](Riemann_Hypothesis_Complete_Proof_Conscious_Cosmos_Axioms.pdf)] [[LaTeX](Riemann_Hypothesis_Complete_Proof_Conscious_Cosmos_Axioms.tex)] [[DOI](https://doi.org/10.5281/zenodo.17684651)]
+6. **[Yang-Mills Existence & Mass Gap](Yang-Mills_Existence_Mass_Gap_Complete_Proof_Conscious_Cosmos_Axioms.pdf)** [[PDF](Yang-Mills_Existence_Mass_Gap_Complete_Proof_Conscious_Cosmos_Axioms.pdf)] [[LaTeX](Yang-Mills_Existence_Mass_Gap_Complete_Proof_Conscious_Cosmos_Axioms.tex)] [[DOI](https://doi.org/10.5281/zenodo.17684740)]
+7. **[Navier-Stokes Global Existence](Global_Existence_Smoothness_Navier-Stokes_Solutions_Complete_Proof_Conscious_Field_Theory.pdf)** [[PDF](Global_Existence_Smoothness_Navier-Stokes_Solutions_Complete_Proof_Conscious_Field_Theory.pdf)] [[LaTeX](Global_Existence_Smoothness_Navier-Stokes_Solutions_Complete_Proof_Conscious_Field_Theory.tex)] [[DOI](https://doi.org/10.5281/zenodo.17684726)]
+8. **[Hodge Conjecture](Hodge_Conjecture_Conscious_Field_Theory.pdf)** [[PDF](Hodge_Conjecture_Conscious_Field_Theory.pdf)] [[LaTeX](Hodge_Conjecture_Conscious_Field_Theory.tex)] [[DOI](https://doi.org/10.5281/zenodo.17684604)]
+9. **[Birch and Swinnerton-Dyer](Birch_Swinnerton-Dyer_Complete_Proof_Conscious_Cosmos_Axioms.pdf)** [[PDF](Birch_Swinnerton-Dyer_Complete_Proof_Conscious_Cosmos_Axioms.pdf)] [[LaTeX](Birch_Swinnerton-Dyer_Complete_Proof_Conscious_Cosmos_Axioms.tex)] [[DOI](https://doi.org/10.5281/zenodo.17684684)]
+10. **[Poincaré Conjecture](Poincare_Complete_Proof_Qualia_Topological_Flow.pdf)** [[PDF](Poincare_Complete_Proof_Qualia_Topological_Flow.pdf)] [[LaTeX](Poincare_Complete_Proof_Qualia_Topological_Flow.tex)] [[DOI](https://doi.org/10.5281/zenodo.17684531)]
 
 ### **Extended Works**
-11. **[Qualia Operator Algebras](Qualia_Algebras.pdf)** - Extended algebraic structures [[PDF](Qualia_Algebras.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17849256)]
-12. **[The Complete Unified Physics](Unified_Physics.pdf)** - Deriving all fundamental theories [[PDF](Unified_Physics.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17692875)]
+11. **[Qualia Operator Algebras](Qualia_Algebras.pdf)** - Extended algebraic structures [[PDF](Qualia_Algebras.pdf)] [[LaTeX](Qualia_Algebras.tex)] [[DOI](https://doi.org/10.5281/zenodo.17849256)]
+12. **[The Complete Unified Physics](Unified_Physics.pdf)** - Deriving all fundamental theories [[PDF](Unified_Physics.pdf)] [[LaTeX](Unified_Physics.tex)] [[DOI](https://doi.org/10.5281/zenodo.17692875)]
 
 ## 🔬 20 Exact Physical Predictions
 
