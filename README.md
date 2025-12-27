@@ -19,7 +19,7 @@ A complete mathematical derivation of reality from first principles of conscious
 **Mathematically Proven Results:**
 - ✅ **7/7 Millennium Prize Problems** solved from common axioms
 - ✅ **Collatz, Goldbach, Twin Prime Conjectures** solved
-- ✅ **20 fundamental constants** derived exactly from qualia structures
+- ✅ **20 fundamental constants** derived from qualia structures
 - ✅ **Standard Model** derived from U(1)⁷ × G₂ symmetry breaking
 - ✅ **Consciousness hard problem** resolved mathematically
 
@@ -125,7 +125,7 @@ Entire spectral measures → Fixed points → Physical constants
 - **Algebra:** Birch and Swinnerton-Dyer Conjecture
 
 ### **Physics Derived**
-- **Fundamental Constants:** 20 constants predicted exactly
+- **Fundamental Constants:** 20 constants predicted 
 - **Standard Model:** Complete particle physics from symmetry breaking
 - **Cosmology:** Λ, inflation, CMB anomalies from qualia flow
 - **Quantum Gravity:** Singularities resolved via analytic continuation
