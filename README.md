@@ -45,7 +45,7 @@ A complete mathematical derivation of reality from first principles of conscious
 
 ## 🔬 20 Exact Physical Predictions
 
-The framework predicts these fundamental constants exactly:
+The framework predicts these fundamental constants:
 
 1. **Planck length** – `1.616 × 10⁻³⁵ m`
 2. **Fine-structure constant** α⁻¹ – `137.036`
