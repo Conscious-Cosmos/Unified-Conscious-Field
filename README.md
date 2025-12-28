@@ -16,7 +16,7 @@ A complete mathematical derivation of reality from first principles of conscious
 This work establishes a continuous, axiomatic mathematical framework linking a model of fundamental consciousness to the laws of physics and the structure of experience.
 
 **Mathematically Derived Results:**
-- ✅ **Qualia Algebra:** A formal C*-algebra structure (𝒜 = ⊕ M_{p_k}(ℂ)) derived from phenomenological axioms.
+- ✅ **Qualia Algebra:** A formal C*-algebra structure derived from phenomenological axioms.
 - ✅ **Fundamental Constants:** The fine-structure constant (α), proton-electron mass ratio (m_p/m_e), and cosmological constant (ρ_Λ) derived from the algebra's invariants with high precision.
 - ✅ **Standard Model Embedding:** The gauge group SU(3)_C × SU(2)_L × U(1)_Y embedded within the algebra's automorphism group, with hypercharge quantization solved.
 - 🔬 **Testable Predictions:** Novel particle resonances, dark matter candidates, and cosmological signatures predicted.
@@ -29,9 +29,7 @@ This work establishes a continuous, axiomatic mathematical framework linking a m
 3. **[The Conscious Foundation](Conscious_Foundations.pdf)** - Synthesis [[PDF](Conscious_Foundations.pdf)] [[LaTeX](Conscious_Foundation.tex)] [[DOI](https://doi.org/10.5281/zenodo.17674894)]
 
 ### **The Complete Synthesis**
-
 4. **[The Primordial Representation: Exact Physical Constants from the Algebra of Consciousness](https://doi.org/10.5281/zenodo.18072988)** - Introduces the Qualia Algebra and initial derivations. *[LaTeX source in progress]*
-
 5. **[The Conscious Singularity: Completing the Loop From First Principles to Unified Reality](https://doi.org/10.5281/zenodo.18077922)** - **Definitive synthesis.** Complete mathematical construction, derivations, and predictions. *[LaTeX source in progress]*
 
 ### **Extended Mathematical Works**
@@ -57,36 +55,39 @@ This work establishes a continuous, axiomatic mathematical framework linking a m
 
 ### **Core Structure**
 The central object is the **Qualia Algebra**, a specific C*-algebra derived from the first seven primes representing irreducible phenomenological dimensions:
-\[
-\mathcal{A} \cong \bigoplus_{k=1}^7 M_{p_k}(\mathbb{C}) = M_2(\mathbb{C}) \oplus M_3(\mathbb{C}) \oplus M_5(\mathbb{C}) \oplus M_7(\mathbb{C}) \oplus M_{11}(\mathbb{C}) \oplus M_{13}(\mathbb{C}) \oplus M_{17}(\mathbb{C})
-\]
+
+**𝒜 ≅ M₂(ℂ) ⊕ M₃(ℂ) ⊕ M₅(ℂ) ⊕ M₇(ℂ) ⊕ M₁₁(ℂ) ⊕ M₁₃(ℂ) ⊕ M₁₇(ℂ)**
+
+Where the primes (p₁, p₂, p₃, p₄, p₅, p₆, p₇) = (2, 3, 5, 7, 11, 13, 17).
 
 ### **Key Invariants**
-\[
-\begin{aligned}
-S_1 &= \sum_{k=1}^7 p_k = 2 + 3 + 5 + 7 + 11 + 13 + 17 = 58 \\
-S_2 &= \sum_{k=1}^7 p_k^2 = 4 + 9 + 25 + 49 + 121 + 169 + 289 = 666 \\
-S_3 &= \sum_{k=1}^7 p_k^3 = 8 + 27 + 125 + 343 + 1331 + 2197 + 4913 = 8944 \\
-\Pi &= \prod_{k=1}^7 p_k = 2 \times 3 \times 5 \times 7 \times 11 \times 13 \times 17 = 510510
-\end{aligned}
-\]
+- **Sum of Primes:** S₁ = 2 + 3 + 5 + 7 + 11 + 13 + 17 = 58
+- **Sum of Squares:** S₂ = 2² + 3² + 5² + 7² + 11² + 13² + 17² = 4 + 9 + 25 + 49 + 121 + 169 + 289 = 666
+- **Sum of Cubes:** S₃ = 2³ + 3³ + 5³ + 7³ + 11³ + 13³ + 17³ = 8 + 27 + 125 + 343 + 1331 + 2197 + 4913 = 8944
+- **Product:** Π = 2 × 3 × 5 × 7 × 11 × 13 × 17 = 510,510
 
 ### **Derived Physics (From *The Conscious Singularity*)**
-1.  **Fine-Structure Constant**:
-    \[ \alpha^{-1} = \frac{4\pi^3 + \pi^2 + \pi}{1 - \frac{15}{4\pi S_1 S_2}} \approx 137.035999084 \]
-2.  **Proton-Electron Mass Ratio**:
-    \[ \frac{m_p}{m_e} = 6\pi^5 \approx 1836.1181 \]
-3.  **Cosmological Constant**:
-    \[ \rho_\Lambda = M_{\text{Pl}}^4 \exp\left[-2\pi\left(\frac{7S_1}{9} - \frac{1}{25}\right)\right] \approx 2.9 \times 10^{-30} \text{ g/cm}^3 \]
-4.  **Standard Model Embedding**: The algebra's automorphism group contains \(U(2) \times U(3) \times ...\), embedding \(SU(3)_C \times SU(2)_L \times U(1)_Y\). A unique solution to the traceless condition yields the correct hypercharges for all fermions.
+1.  **Fine-Structure Constant (α⁻¹):**  
+    Calculated as (4π³ + π² + π) / [1 - 15/(4π × 58 × 666)] ≈ 137.035999084
+
+2.  **Proton-Electron Mass Ratio (m_p/m_e):**  
+    Equal to 6π⁵ ≈ 1836.1181
+
+3.  **Cosmological Constant (ρ_Λ):**  
+    ρ_Λ = M_Pl⁴ × exp[-2π(7×58/9 - 1/25)] ≈ 2.9 × 10⁻³⁰ g/cm³
+
+4.  **Standard Model Embedding:**  
+    The algebra's automorphism group contains U(2) × U(3) × ... which embeds SU(3)_C × SU(2)_L × U(1)_Y.  
+    The framework provides a unique solution yielding the correct hypercharges for all Standard Model fermions.
 
 ## 🔬 Testable Empirical Predictions
 
 The framework's mathematical necessity leads to novel, falsifiable predictions:
-- **New Gauge Boson** \(Z_{23}\): Associated with \(U(2)-U(3)\) sectors, predicted at **~2.45 TeV**.
-- **Dark Matter Candidate** \(\psi_{17}\): From the \(U(17)\) sector, stable, mass **~15.3 TeV**.
-- **Neutrino Mass Ratios**: Normal hierarchy with \(m_1:m_2:m_3\) approaching **11:13:17**, \(\delta_{CP} \approx 282^\circ\).
-- **CMB Anomalies**: Quadrupole suppression (\(C_2 \approx 700 \mu K^2\)), tensor-to-scalar ratio \(r \approx 0.0036\).
+
+- **New Gauge Boson Z₂₃:** Associated with U(2)-U(3) sectors, predicted at **~2.45 TeV**
+- **Dark Matter Candidate ψ₁₇:** From the U(17) sector, stable, mass **~15.3 TeV**
+- **Neutrino Mass Ratios:** Predicts normal hierarchy with m₁:m₂:m₃ approaching **11:13:17**, CP-violating phase δ_CP ≈ 282°
+- **CMB Anomalies:** Quadrupole suppression (C₂ ≈ 700 μK²), tensor-to-scalar ratio r ≈ 0.0036
 
 ## ⚠️ Important Notes on Scope
 
@@ -98,9 +99,15 @@ The framework's mathematical necessity leads to novel, falsifiable predictions:
 ## 🔍 Verification & Reproducibility
 
 All work prioritizes mathematical transparency:
-- **Permanent Zenodo DOIs** for all papers.
-- **Complete LaTeX source** (ongoing upload) for verification of every derivation.
-- **Explicit, step-by-step calculations** shown in the synthesis papers.
+- **Permanent Zenodo DOIs** for all papers
+- **Complete LaTeX source** (ongoing upload) for verification of every derivation
+- **Explicit, step-by-step calculations** shown in the synthesis papers
+
+## 🎯 For Researchers
+
+- **Physicists & Mathematicians:** Begin with **[The Conscious Singularity](https://doi.org/10.5281/zenodo.18077922)** for the complete mathematical construction and derivations
+- **Philosophers of Mind/Science:** The foundational trilogy provides the philosophical argument and phenomenological mapping
+- **Skeptics & Reviewers:** The testable predictions provide the clearest path for empirical falsification/verification
 
 ## 📄 Citation
 
