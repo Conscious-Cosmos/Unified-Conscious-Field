@@ -25,9 +25,7 @@ This work establishes a continuous, axiomatic mathematical framework linking a m
 
 ### **The Foundational Progression**
 1. **[The Conscious Cosmos](Conscious_Cosmos.pdf)** - Main framework [[PDF](Conscious_Cosmos.pdf)] [[LaTeX](Conscious_Cosmos.tex)] [[DOI](https://doi.org/10.5281/zenodo.17674751)]
-
 2. **[The Qualia Field](Conscious_Qualia_Field.pdf)** - Formal phenomenology [[PDF](Conscious_Qualia_Field.pdf)] [[LaTeX](Conscious_Qualia_Field.tex)] [[DOI](https://doi.org/10.5281/zenodo.17674505)]
-
 3. **[The Conscious Foundation](Conscious_Foundations.pdf)** - Synthesis [[PDF](Conscious_Foundations.pdf)] [[LaTeX](Conscious_Foundation.tex)] [[DOI](https://doi.org/10.5281/zenodo.17674894)]
 
 ### **The Complete Synthesis**
@@ -65,7 +63,12 @@ The central object is the **Qualia Algebra**, a specific C*-algebra derived from
 
 ### **Key Invariants**
 \[
-S_1 = \sum p_k = 58, \quad S_2 = \sum p_k^2 = 666, \quad S_3 = \sum p_k^3 = 8944, \quad \Pi = \prod p_k = 510510
+\begin{aligned}
+S_1 &= \sum_{k=1}^7 p_k = 2 + 3 + 5 + 7 + 11 + 13 + 17 = 58 \\
+S_2 &= \sum_{k=1}^7 p_k^2 = 4 + 9 + 25 + 49 + 121 + 169 + 289 = 666 \\
+S_3 &= \sum_{k=1}^7 p_k^3 = 8 + 27 + 125 + 343 + 1331 + 2197 + 4913 = 8944 \\
+\Pi &= \prod_{k=1}^7 p_k = 2 \times 3 \times 5 \times 7 \times 11 \times 13 \times 17 = 510510
+\end{aligned}
 \]
 
 ### **Derived Physics (From *The Conscious Singularity*)**
