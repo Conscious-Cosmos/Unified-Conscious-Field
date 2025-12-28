@@ -101,4 +101,4 @@ All original work in this repository is shared to advance scientific and philoso
 
 Wing, A. J. (2025). The Conscious Singularity: Completing the Loop From First Principles to Unified Reality. Zenodo. https://doi.org/10.5281/zenodo.18077922
 
-🧮 This framework proposes that a complete description of reality requires a first-principles model in which consciousness and its mathematical structure are fundamental. Its value will be determined by the logical coherence of its mathematics and its ability to make novel, verified predictions about the physical world. 🌌
+## 🧮 This framework proposes that a complete description of reality requires a first-principles model in which consciousness and its mathematical structure are fundamental. Its value will be determined by the logical coherence of its mathematics and its ability to make novel, verified predictions about the physical world. 🌌
