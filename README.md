@@ -25,21 +25,32 @@ This work establishes a continuous, axiomatic mathematical framework linking a m
 
 ### **The Foundational Progression**
 1. **[The Conscious Cosmos](Conscious_Cosmos.pdf)** - Main framework [[PDF](Conscious_Cosmos.pdf)] [[LaTeX](Conscious_Cosmos.tex)] [[DOI](https://doi.org/10.5281/zenodo.17674751)]
+
 2. **[The Qualia Field](Conscious_Qualia_Field.pdf)** - Formal phenomenology [[PDF](Conscious_Qualia_Field.pdf)] [[LaTeX](Conscious_Qualia_Field.tex)] [[DOI](https://doi.org/10.5281/zenodo.17674505)]
+
 3. **[The Conscious Foundation](Conscious_Foundations.pdf)** - Synthesis [[PDF](Conscious_Foundations.pdf)] [[LaTeX](Conscious_Foundation.tex)] [[DOI](https://doi.org/10.5281/zenodo.17674894)]
 
 ### **The Complete Synthesis**
+
 4. **[The Primordial Representation: Exact Physical Constants from the Algebra of Consciousness](https://doi.org/10.5281/zenodo.18072988)** - Introduces the Qualia Algebra and initial derivations. *[LaTeX source in progress]*
+
 5. **[The Conscious Singularity: Completing the Loop From First Principles to Unified Reality](https://doi.org/10.5281/zenodo.18077922)** - **Definitive synthesis.** Complete mathematical construction, derivations, and predictions. *[LaTeX source in progress]*
 
 ### **Extended Mathematical Works**
 *Note: The following papers apply the framework's axioms to major open problems. These are actively being refined; claims should be considered under review and subject to update.*
+
 6. **[P ≠ NP](P_≠_NP_Complete_Geometric_Proof_Conscious_Cosmos_Axioms.pdf)** [[PDF](P_≠_NP_Complete_Geometric_Proof_Conscious_Cosmos_Axioms.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17684771)]
+
 7. **[Riemann Hypothesis](Riemann_Hypothesis_Complete_Proof_Conscious_Cosmos_Axioms.pdf)** [[PDF](Riemann_Hypothesis_Complete_Proof_Conscious_Cosmos_Axioms.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17684651)]
+
 8. **[Yang-Mills Existence & Mass Gap](Yang-Mills_Existence_Mass_Gap_Complete_Proof_Conscious_Cosmos_Axioms.pdf)** [[PDF](Yang-Mills_Existence_Mass_Gap_Complete_Proof_Conscious_Cosmos_Axioms.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17684740)]
+
 9. **[Navier-Stokes Global Existence](Global_Existence_Smoothness_Navier-Stokes_Solutions_Complete_Proof_Conscious_Field_Theory.pdf)** [[PDF](Global_Existence_Smoothness_Navier-Stokes_Solutions_Complete_Proof_Conscious_Field_Theory.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17684726)]
+
 10. **[Hodge Conjecture](Hodge_Conjecture_Conscious_Field_Theory.pdf)** [[PDF](Hodge_Conjecture_Conscious_Field_Theory.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17684604)]
+
 11. **[Birch and Swinnerton-Dyer](Birch_Swinnerton-Dyer_Complete_Proof_Conscious_Cosmos_Axioms.pdf)** [[PDF](Birch_Swinnerton-Dyer_Complete_Proof_Conscious_Cosmos_Axioms.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17684684)]
+
 12. **[Poincaré Conjecture](Poincare_Complete_Proof_Qualia_Topological_Flow.pdf)** [[PDF](Poincare_Complete_Proof_Qualia_Topological_Flow.pdf)] [[DOI](https://doi.org/10.5281/zenodo.17684531)]
 
 *LaTeX source files for these papers are being added to the repository. If a file linked above is not yet present in the repo, it will be added shortly.*
