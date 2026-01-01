@@ -24,49 +24,68 @@ S_3 = \sum p_k^3 = 8944
 The framework presents formulas yielding:
 
 Constant Formula Value Claimed Accuracy
-α⁻¹ (fine-structure) (4π³+π²+π)/[1-15/(4π×58×666)] 137.035999 ≈ 137.035999084
-m_t (top quark) 173.1 GeV 173.1 GeV exact
-m_H (Higgs) 125.1 GeV 125.1 GeV 0.06%
-m_p/m_e 6π⁵ 1836.118 1836.152673 (3 ppm)
-ρ_Λ (cosmological) M_Pl⁴ exp[-2π(7×58/9 - 1/25)] 2.50×10⁻⁴⁷ GeV⁴ ≈ (2.4×10⁻³ eV)⁴
-M_W (W boson) 80.377 GeV 80.377 GeV exact
+Fine-structure constant α⁻¹ (4π³+π²+π)/[1-15/(4π×58×666)] 137.035999 ≈ 137.035999084
+Top quark mass m_t 173.1 GeV 173.1 GeV exact
+Higgs boson mass m_H 125.1 GeV 125.1 GeV 0.06%
+Proton/electron ratio m_p/m_e 6π⁵ 1836.118 1836.152673 (3 ppm)
+Cosmological constant ρ_Λ M_Pl⁴ exp[-2π(7×58/9 - 1/25)] 2.50×10⁻⁴⁷ GeV⁴ ≈ (2.4×10⁻³ eV)⁴
+W boson mass M_W 80.377 GeV 80.377 GeV exact
 
 📚 Papers in This Repository
 
 Foundational Papers
 
-1. The Conscious Cosmos - Philosophical foundation [PDF] [LaTeX] [DOI]
-2. The Qualia Field - Formal phenomenology [PDF] [LaTeX] [DOI]
-3. The Conscious Foundation - Initial synthesis [PDF] [LaTeX] [DOI]
-4. Primordial Representation - Introduces Qualia Algebra [PDF] [LaTeX] [DOI]
-5. Conscious Singularity - Complete mathematical construction [PDF] [LaTeX] [DOI]
-6. Cosmic Qualia - Cosmological constant derivation [PDF] [LaTeX] [DOI]
+1. The Conscious Cosmos - Philosophical foundation
+   [PDF] [LaTeX] [DOI]
+2. The Qualia Field - Formal phenomenology
+   [PDF] [LaTeX] [DOI]
+3. The Conscious Foundation - Initial synthesis
+   [PDF] [LaTeX] [DOI]
+4. Primordial Representation - Introduces Qualia Algebra
+   [PDF] [LaTeX] [DOI]
+5. Conscious Singularity - Complete mathematical construction
+   [PDF] [LaTeX] [DOI]
+6. Cosmic Qualia - Cosmological constant derivation
+   [PDF] [LaTeX] [DOI]
 
 Mathematical Applications
 
-1. P ≠ NP Proof [PDF] [LaTeX] [DOI]
-2. Riemann Hypothesis Proof [PDF] [LaTeX] [DOI]
-3. Yang-Mills Mass Gap Proof [PDF] [LaTeX] [DOI]
-4. Navier-Stokes Proof [PDF] [LaTeX] [DOI]
-5. Hodge Conjecture Proof [PDF] [LaTeX] [DOI]
-6. Birch and Swinnerton-Dyer Proof [PDF] [LaTeX] [DOI]
-7. Poincaré Conjecture Proof [PDF] [LaTeX] [DOI]
+1. P ≠ NP Proof
+   [PDF] [LaTeX] [DOI]
+2. Riemann Hypothesis Proof
+   [PDF] [LaTeX] [DOI]
+3. Yang-Mills Mass Gap Proof
+   [PDF] [LaTeX] [DOI]
+4. Navier-Stokes Proof
+   [PDF] [LaTeX] [DOI]
+5. Hodge Conjecture Proof
+   [PDF] [LaTeX] [DOI]
+6. Birch and Swinnerton-Dyer Proof
+   [PDF] [LaTeX] [DOI]
+7. Poincaré Conjecture Proof
+   [PDF] [LaTeX] [DOI]
 
 Supporting Papers
 
-1. Unified Physics [PDF] [LaTeX]
-2. Framework Solutions [PDF] [LaTeX]
-3. Millennium Proofs Collection [PDF] [LaTeX]
-4. Qualia Calculus [PDF] [LaTeX]
-5. Qualia Algebras [PDF] [LaTeX]
-6. Cover Letter [PDF] [LaTeX]
+1. Unified Physics
+   [PDF] [LaTeX]
+2. Framework Solutions
+   [PDF] [LaTeX]
+3. Millennium Proofs Collection
+   [PDF] [LaTeX]
+4. Qualia Calculus
+   [PDF] [LaTeX]
+5. Qualia Algebras
+   [PDF] [LaTeX]
+6. Cover Letter
+   [PDF] [LaTeX]
 
 🎯 Testable Predictions
 
 The framework makes several numerical predictions that could be tested experimentally:
 
 · Dark matter particle at ~850 GeV
-· CMB anomalies at multipoles ℓ = 2,3,5,7,11,13,17
+· CMB anomalies at multipoles ℓ = 2, 3, 5, 7, 11, 13, 17
 · Neutrino mass ratios approaching 11:13:17
 · Equation of state parameter w = -1 with tiny corrections
 
