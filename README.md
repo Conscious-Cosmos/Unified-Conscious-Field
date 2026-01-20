@@ -2,6 +2,9 @@ The Conscious Cosmos: Mathematical Frameworks for Consciousness and Physics
 
 A rigorous exploration of mathematical structures connecting consciousness phenomenology to fundamental physics through exceptional algebras and number-theoretic approaches.
 
+https://zenodo.org/badge/DOI/10.5281/zenodo.18276874.svg
+https://img.shields.io/badge/GitHub-Repository-blue
+
 🎯 Primary Framework: Consciousness as Exceptional Structure
 
 Start here for the most rigorous mathematical bridge between consciousness and physics:
