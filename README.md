@@ -6,7 +6,7 @@
 
 **Start here for the most rigorous mathematical bridge between consciousness and physics:**
 
-**Consciousness as Exceptional Structure: A Mathematical Bridge Between Phenomenology and Fundamental Physics**  
+**[Consciousness as Exceptional Structure: A Mathematical Bridge Between Phenomenology and Fundamental Physics](Exceptional.pdf)**  
 A mathematically rigorous framework connecting consciousness phenomenology to fundamental physics through exceptional algebraic structures.
 
 **Core Achievement:**
@@ -23,11 +23,11 @@ Establishes a precise mathematical bridge:
 - **Testable predictions**: With complete error analysis
 - **Neuroscience predictions**: Specific, falsifiable neural signatures
 
-*Recommended reading order for physicists: exceptional.pdf → (then optionally explore complementary approaches below)*
+*Recommended reading order for physicists: [Exceptional.pdf](Exceptional.pdf) → (then optionally explore complementary approaches below)*
 
 ## 🚀 Quick Start Guide
 
-- **For mathematical physicists**: Start with `exceptional.pdf` - the rigorous exceptional algebra framework with complete E₆ GUT construction.
+- **For mathematical physicists**: Start with [Exceptional.pdf](Exceptional.pdf) - the rigorous exceptional algebra framework with complete E₆ GUT construction.
 - **For phenomenology/philosophy focus**: Start with foundational papers 1-3 below.
 - **For number-theoretic approach**: Papers 4-6 develop the Qualia Algebra framework.
 - **For verification**: All LaTeX source files provided for mathematical transparency.
@@ -36,68 +36,69 @@ Establishes a precise mathematical bridge:
 
 ### I. Foundational Philosophical Framework
 
-1. **The Conscious Cosmos** - Philosophical foundation  
-   [PDF] [LaTeX] [DOI]
-2. **The Qualia Field** - Formal phenomenology  
-   [PDF] [LaTeX] [DOI]
-3. **The Conscious Foundation** - Initial synthesis  
-   [PDF] [LaTeX] [DOI]
+1. **[The Conscious Cosmos](Conscious_Cosmos.pdf)** - Philosophical foundation  
+   [[PDF](Conscious_Cosmos.pdf)] [[LaTeX](Conscious_Cosmos.tex)] [[DOI]](#)
+2. **[The Qualia Field](Conscious_Qualia_Field.pdf)** - Formal phenomenology  
+   [[PDF](Conscious_Qualia_Field.pdf)] [[LaTeX](Conscious_Qualia_Field.tex)] [[DOI]](#)
+3. **[The Conscious Foundation](Conscious_Foundations.pdf)** - Initial synthesis  
+   [[PDF](Conscious_Foundations.pdf)] [[LaTeX](Conscious_Foundation.tex)] [[DOI]](#)
 
 ### II. Primary Framework: Exceptional Algebra Approach
 
-1. **Consciousness as Exceptional Structure: A Mathematical Bridge Between Phenomenology and Fundamental Physics**  
-   DEFINITIVE FRAMEWORK. Rigorous mathematical construction: Phenomenology → Fano plane → Octonions → E₆ GUT. Complete E₆ Grand Unified Theory with consciousness field Φ_C, testable predictions for proton decay ($τ ≈ 3.2×10³⁵$ years), $Z'$ boson ($M ≈ 5.2$ TeV), and neural signatures ($27±3$ dimensional structure).  
-   [PDF] [LaTeX] [DOI]
+1. **[Consciousness as Exceptional Structure: A Mathematical Bridge Between Phenomenology and Fundamental Physics](Exceptional.pdf)**  
+   **DEFINITIVE FRAMEWORK.** Rigorous mathematical construction: Phenomenology → Fano plane → Octonions → E₆ GUT. Complete E₆ Grand Unified Theory with consciousness field Φ_C, testable predictions for proton decay ($τ ≈ 3.2×10³⁵$ years), $Z'$ boson ($M ≈ 5.2$ TeV), and neural signatures ($27±3$ dimensional structure).  
+   [[PDF](Exceptional.pdf)] [[LaTeX](Exceptional.tex)] [[DOI](https://doi.org/10.5281/zenodo.18276874)]
 
 ### III. Complementary Framework: Qualia Algebra & Number-Theoretic Approach
 
-1. **The Primordial Representation: Exact Physical Constants from the Algebra of Consciousness**  
+1. **[The Primordial Representation: Exact Physical Constants from the Algebra of Consciousness](Primordial_Representation_Exact_Physical_Constants_Algebra_Consciousness.pdf)**  
    Introduces the Qualia Algebra (C*-algebra from first 7 primes), derives physical constants.  
-   [PDF] [LaTeX] [DOI]
-2. **The Conscious Singularity: Completing the Loop From First Principles to Unified Reality**  
+   [[PDF](Primordial_Representation_Exact_Physical_Constants_Algebra_Consciousness.pdf)] [[LaTeX](Primordial_Representation_Exact_Physical_Constants_Algebra_Consciousness.tex)] [[DOI]](#)
+2. **[The Conscious Singularity: Completing the Loop From First Principles to Unified Reality](Conscious_Singularity_Completing_Loop_First_Principles_Unified_Reality.pdf)**  
    Synthesis of Qualia Algebra approach.  
-   [PDF] [LaTeX] [DOI]
-3. **Cosmic Qualia: Exact Derivation of the Cosmological Constant from Primordial Consciousness Algebra**  
+   [[PDF](Conscious_Singularity_Completing_Loop_First_Principles_Unified_Reality.pdf)] [[LaTeX](Conscious_Singularity_Completing_Loop_First_Principles_Unified_Reality.tex)] [[DOI](https://doi.org/10.5281/zenodo.18077922)]
+3. **[Cosmic Qualia: Exact Derivation of the Cosmological Constant from Primordial Consciousness Algebra](Cosmic_Qualia_Derivation_Cosmological_Constant_Primordial_Consciousness_Algebra.pdf)**  
    Cosmological constant derivation from Qualia Algebra.  
-   [PDF] [LaTeX] [DOI]
+   [[PDF](Cosmic_Qualia_Derivation_Cosmological_Constant_Primordial_Consciousness_Algebra.pdf)] [[LaTeX](Cosmic_Qualia_Derivation_Cosmological_Constant_Primordial_Consciousness_Algebra.tex.txt)] [[DOI](https://doi.org/10.5281/zenodo.18112390)]
 
 ### IV. Extended Mathematical Applications (Millennium Problems - exploratory)
 
-1. **P ≠ NP: Complete Geometric Proof from Conscious Cosmos Axioms**  
-   [PDF] [LaTeX] [DOI]
-2. **Riemann Hypothesis: Complete Proof from Conscious Cosmos Axioms**  
-   [PDF] [LaTeX] [DOI]
-3. **Yang-Mills Existence & Mass Gap: Complete Proof from Conscious Cosmos Axioms**  
-   [PDF] [LaTeX] [DOI]
-4. **Navier-Stokes Global Existence & Smoothness: Complete Proof from Conscious Field Theory**  
-   [PDF] [LaTeX] [DOI]
-5. **Hodge Conjecture: Proof from Conscious Field Theory**  
-   [PDF] [LaTeX] [DOI]
-6. **Birch and Swinnerton-Dyer Conjecture: Complete Proof from Conscious Cosmos Axioms**  
-   [PDF] [LaTeX] [DOI]
-7. **Poincaré Conjecture: Complete Proof via Qualia Topological Flow**  
-   [PDF] [LaTeX] [DOI]
+1. **[P ≠ NP: Complete Geometric Proof from Conscious Cosmos Axioms](P_≠_NP_Complete_Geometric_Proof_Conscious_Cosmos_Axioms.pdf)**  
+   [[PDF](P_≠_NP_Complete_Geometric_Proof_Conscious_Cosmos_Axioms.pdf)] [[LaTeX](P_≠_NP_Complete_Geometric_Proof_Conscious_Cosmos_Axioms.tex)] [[DOI]](#)
+2. **[Riemann Hypothesis: Complete Proof from Conscious Cosmos Axioms](Riemann_Hypothesis_Complete_Proof_Conscious_Cosmos_Axioms.pdf)**  
+   [[PDF](Riemann_Hypothesis_Complete_Proof_Conscious_Cosmos_Axioms.pdf)] [[LaTeX](Riemann_Hypothesis_Complete_Proof_Conscious_Cosmos_Axioms.tex)] [[DOI]](#)
+3. **[Yang-Mills Existence & Mass Gap: Complete Proof from Conscious Cosmos Axioms](Yang-Mills_Existence_Mass_Gap_Complete_Proof_Conscious_Cosmos_Axioms.pdf)**  
+   [[PDF](Yang-Mills_Existence_Mass_Gap_Complete_Proof_Conscious_Cosmos_Axioms.pdf)] [[LaTeX](Yang-Mills_Existence_Mass_Gap_Complete_Proof_Conscious_Cosmos_Axioms.tex)] [[DOI]](#)
+4. **[Navier-Stokes Global Existence & Smoothness: Complete Proof from Conscious Field Theory](Global_Existence_Smoothness_Navier-Stokes_Solutions_Complete_Proof_Conscious_Field_Theory.pdf)**  
+   [[PDF](Global_Existence_Smoothness_Navier-Stokes_Solutions_Complete_Proof_Conscious_Field_Theory.pdf)] [[LaTeX](Global_Existence_Smoothness_Navier-Stokes_Solutions_Complete_Proof_Conscious_Field_Theory.tex)] [[DOI]](#)
+5. **[Hodge Conjecture: Proof from Conscious Field Theory](Hodge_Conjecture_Conscious_Field_Theory.pdf)**  
+   [[PDF](Hodge_Conjecture_Conscious_Field_Theory.pdf)] [[LaTeX](Hodge_Conjecture_Conscious_Field_Theory.tex)] [[DOI]](#)
+6. **[Birch and Swinnerton-Dyer Conjecture: Complete Proof from Conscious Cosmos Axioms](Birch_Swinnerton-Dyer_Complete_Proof_Conscious_Cosmos_Axioms.pdf)**  
+   [[PDF](Birch_Swinnerton-Dyer_Complete_Proof_Conscious_Cosmos_Axioms.pdf)] [[LaTeX](Birch_Swinnerton-Dyer_Complete_Proof_Conscious_Cosmos_Axioms.tex)] [[DOI]](#)
+7. **[Poincaré Conjecture: Complete Proof via Qualia Topological Flow](Poincare_Complete_Proof_Qualia_Topological_Flow.pdf)**  
+   [[PDF](Poincare_Complete_Proof_Qualia_Topological_Flow.pdf)] [[LaTeX](Poincare_Complete_Proof_Qualia_Topological_Flow.tex)] [[DOI]](#)
 
 ### V. Supporting Technical Papers
 
-1. **Unified Physics: Complete Framework**  
-   [PDF] [LaTeX]
-2. **Framework Solutions for Millennium Problems**  
-   [PDF] [LaTeX]
-3. **Millennium Proofs Collection**  
-   [PDF] [LaTeX]
+1. **[Unified Physics: Complete Framework](Unified_Physics.pdf)**  
+   [[PDF](Unified_Physics.pdf)] [[LaTeX](Unified_Physics.tex)]
+2. **[Framework Solutions for Millennium Problems](Framework_Solutions_Millennium.pdf)**  
+   [[PDF](Framework_Solutions_Millennium.pdf)] [[LaTeX](Framework_Solutions_Millennium.tex)]
+3. **[Millennium Proofs Collection](Millennium_Proofs_Collection.pdf)**  
+   [[PDF](Millennium_Proofs_Collection.pdf)] [[LaTeX](Millennium_Proofs_Collection.tex)]
 
 ### VI. Mathematical Tools & Formalism
 
-1. **Qualia Calculus**  
-   [PDF] [LaTeX]
-2. **Qualia Algebras**  
-   [PDF] [LaTeX]
+1. **[Qualia Calculus](Qualia_calculus.pdf)**  
+   [[PDF](Qualia_calculus.pdf)] [[LaTeX](Qualia_Calculus.tex)]
+2. **[Qualia Algebras](Qualia_Algebras.pdf)**  
+   [[PDF](Qualia_Algebras.pdf)] [[LaTeX](Qualia_Algebras.tex)]
 
 ### VII. Supporting Documents
 
-1. **Cover Letter: Trilogy & Millennium Problems**  
-   [PDF] [LaTeX]
+1. **[Cover Letter: Trilogy & Millennium Problems](Cover_Letter_Trilogy_Millennium.pdf)**  
+   [[PDF](Cover_Letter_Trilogy_Millennium.pdf)] [[LaTeX](Cover_Letter_Trilogy_Millennium.tex)]
+2. **[Summary (Mentat Duncan)](Summary%20(Mentat%20Duncan).txt)** - Independent analysis
 
 *Note: Papers in Sections IV-VII represent active research applying the framework's axioms. These are shared for collaboration and are explicitly under review.*
 
@@ -239,7 +240,7 @@ Wing, A. J. (2025). Consciousness as Exceptional Structure: A Mathematical Bridg
 Wing, A. J. (2025). Cosmic Qualia: Exact Derivation of the Cosmological Constant from Primordial Consciousness Algebra. Zenodo. https://doi.org/10.5281/zenodo.18112390
 
 **For the complete synthesis:**  
-Wing, A. J. (2026). The Conscious Singularity: Completing the Loop From First Principles to Unified Reality. Zenodo. https://doi.org/10.5281/zenodo.18077922
+Wing, A. J. (2025). The Conscious Singularity: Completing the Loop From First Principles to Unified Reality. Zenodo. https://doi.org/10.5281/zenodo.18077922
 
 ---
 
